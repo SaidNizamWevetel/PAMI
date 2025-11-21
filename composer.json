@@ -1,5 +1,5 @@
 {
-  "name": "SaidNizamWevetel/pami",
+  "name": "said-nizam-wevetel/pami",
   "type": "library",
   "description": "Asterisk Manager Interface (AMI) client for PHP, event driven, object oriented",
   "keywords": ["asterisk","ami","client","telephony","voip","event","action","manager","monitor"],
